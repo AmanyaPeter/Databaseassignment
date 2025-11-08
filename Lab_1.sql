@@ -5,9 +5,9 @@
 -- ============================================
 
 -- DROP DATABASE IF EXISTS to start fresh
-DROP DATABASE IF EXISTS UniversityEnrollment;
-CREATE DATABASE UniversityEnrollment;
-USE UniversityEnrollment;
+DROP DATABASE IF EXISTS  Lab_1;
+CREATE DATABASE Lab_1;
+USE Lab_1;
 
 -- ============================================
 -- SCHEMA DESIGN (Normalized to 3NF)
